@@ -1,0 +1,4 @@
+[submodule "tst_submodule"]
+	path = tst_submodule
+	url = git@github.com:git-try-it/test_submodule.git
+	branch = dev
